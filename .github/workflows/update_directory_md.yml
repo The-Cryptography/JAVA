@@ -1,4 +1,3 @@
-# This GitHub Action updates the DIRECTORY.md file (if needed) when doing a git push
 name: update_directory_md
 on: [push]
 jobs:
