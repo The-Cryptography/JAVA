@@ -4,7 +4,7 @@
 * can be encrypted by applying the bitwise XOR operator to every character using a given key. 
 * To decrypt the output, merely reapplying the XOR function with the key will remove the cipher.
 *
-* code by Rishabh Patel
+* code by @Rishabh Patel
 */
 
 import java.util.*;
