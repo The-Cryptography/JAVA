@@ -2,7 +2,7 @@
 * Base64_cipher
 * Base 64 is an encoding scheme that converts binary data into text format 
 * so that encoded textual data can be easily transported over network un-corrupted and without any data loss.(
-* @Code by Rishabhpatel803
+* Code by @Rishabhpatel803
 */
 import java.util.*;
 public class base64_cipher {
