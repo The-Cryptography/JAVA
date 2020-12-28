@@ -9,4 +9,4 @@
   * [XOR cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/XOR_cipher.java)
 
 ## [STRUCTURE]
-#(https://github.com/The-Cryptography/Java/blob/master//STRUCTURE.java)
+ (https://github.com/The-Cryptography/Java/blob/master//STRUCTURE.java)
