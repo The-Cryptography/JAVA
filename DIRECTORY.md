@@ -8,4 +8,5 @@
   * [vignere cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/vignere_cipher.java)
   * [XOR cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/XOR_cipher.java)
 
-## [STRUCTURE](https://github.com/The-Cryptography/Java/blob/master//STRUCTURE.java)
+## [STRUCTURE]
+--include: (https://github.com/The-Cryptography/Java/blob/master//STRUCTURE.java)
