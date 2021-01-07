@@ -1,8 +1,9 @@
 /*
+* Playfair Cipher
 * The Playfair cipher was the first practical digraph substitution cipher.
 * In playfair cipher unlike traditional cipher we encrypt a pair of alphabets(digraphs) instead of a single alphabet.
 *
-* Code by Anvikshajain
+* Code by @Anvikshajain
 */
 
 public class playfaircipher
