@@ -2,6 +2,7 @@
 ## ciphers
   * [base64 cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/base64_cipher.java)
   * [caeser cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/caeser_cipher.java)
+  * [MD5 hash](https://github.com/The-Cryptography/Java/blob/master/ciphers/MD5_hash.java)
   * [Playfair cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/Playfair_cipher.java)
   * [railfence cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/railfence_cipher.java)
   * [RSA algorithm](https://github.com/The-Cryptography/Java/blob/master/ciphers/RSA_algorithm.java)
