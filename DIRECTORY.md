@@ -2,6 +2,7 @@
 ## ciphers
   * [AES algorithm](https://github.com/The-Cryptography/Java/blob/master/ciphers/AES_algorithm.java)
   * [base64 cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/base64_cipher.java)
+  * [Blowfish algorithm](https://github.com/The-Cryptography/Java/blob/master/ciphers/Blowfish_algorithm.java)
   * [caeser cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/caeser_cipher.java)
   * [MD5 hash](https://github.com/The-Cryptography/Java/blob/master/ciphers/MD5_hash.java)
   * [Playfair cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/Playfair_cipher.java)
