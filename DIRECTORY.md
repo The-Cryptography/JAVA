@@ -8,6 +8,7 @@
   * [railfence cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/railfence_cipher.java)
   * [RSA algorithm](https://github.com/The-Cryptography/Java/blob/master/ciphers/RSA_algorithm.java)
   * [SHA-256](https://github.com/The-Cryptography/Java/blob/master/ciphers/SHA-256.java)
+  * [Triple DES](https://github.com/The-Cryptography/Java/blob/master/ciphers/Triple_DES.java)
   * [vignere cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/vignere_cipher.java)
   * [XOR cipher](https://github.com/The-Cryptography/Java/blob/master/ciphers/XOR_cipher.java)
 
